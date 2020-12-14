@@ -1,0 +1,1422 @@
+%TTitle: 1318594686362157057
+%ETitle: 1318594686362157057
+%TAuthor:
+%EAuthor: jessica_Jescia
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+สำหรับชาว #คณะราษฎร #หาดใหญ่ motto ของชาวเราคือ ชาติ ศาสนา ลีการ์เด้น ข่มข่าาา//
+สำหรับ/SCONJ
+ชาว/PART
+<space>/PUNCT
+<number>/PUNCT
+คณะราษฎร/PROPN
+<space>/PUNCT
+<number>/PUNCT
+หาดใหญ่/PROPN
+<space>/PUNCT
+motto/NOUN
+<space>/PUNCT
+ของ/ADP
+ชาวเรา/NOUN
+คือ/VERB
+<space>/PUNCT
+ชาติ/NOUN
+<space>/PUNCT
+ศาสนา/NOUN
+<space>/PUNCT
+ลีการ์เด้น/PROPN
+<space>/PUNCT
+ข่ม/VERB
+ข่าาา/PART
+//
+%TTitle: 1318545054487642112
+%ETitle: 1318545054487642112
+%TAuthor:
+%EAuthor: pang0711
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+อยากให้ทั่วโลกออกข่าวว่าวันนี้ม็อบแกงเจ้าหน้าที่เป็นหมาหงอยเลยอ่ะ อุตส่าห์เตรียมตร.มาตั้ง12กองร้อย คิดดูแม่งวื้ดอย่างแรง ทั่วโลกจะฮาขนาดไหนตร.มาไม่เจอม็อบ ม็อบขอพักก่อนนน555 ม็อบนี้แม่งโคตรปั่นอ่ะ//
+อยาก/AUX
+ให้/VERB
+ทั่วโลก/NOUN
+ออกข่าว/VERB
+ว่า/SCONJ
+วันนี้/NOUN
+ม็อบ/NOUN
+แกง/VERB
+เจ้าหน้าที่/NOUN
+เป็น/VERB
+หมา/NOUN
+หงอย/ADJ
+เลย/AUX
+อ่ะ/PART
+<space>/PUNCT
+อุตส่าห์/AUX
+เตรียม/VERB
+ตร./NOUN
+มา/AUX
+ตั้ง/ADP
+12/NUM
+กองร้อย/NOUN
+<space>/PUNCT
+คิดดู/VERB
+แม่ง/PART
+วื้ด/ADJ
+อย่าง/PART
+แรง/ADJ
+ทั่วโลก/ADV
+จะ/AUX
+ฮา/ADJ
+ขนาด/NOUN
+ไหน/PRON
+ตร./NOUN
+มา/AUX
+ไม่/PART
+เจอ/VERB
+ม็อบ/NOUN
+<space>/PUNCT
+ม็อบ/NOUN
+ขอ/VERB
+พัก/VERB
+ก่อนนน/ADP
+555/INTJ
+<space>/PUNCT
+ม็อบ/NOUN
+นี้/DET
+แม่ง/PART
+โคตร/ADJ
+ปั่น/ADJ
+อ่ะ/PART
+//
+%TTitle: 1318422159060918273
+%ETitle: 1318422159060918273
+%TAuthor:
+%EAuthor: TPoungkaew
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+555 เลิกโง่ค่ะร้าบาน ขนาดกปปส.ยังทำไม่ได้ขนาดนี้//
+555/INTJ
+<space>/PUNCT
+เลิก/VERB
+โง่/ADJ
+ค่ะ/PART
+ร้าบาน/NOUN
+<space>/PUNCT
+ขนาด/ADV
+กปปส./PROPN
+ยัง/AUX
+ทำ/VERB
+ไม่ได้/PART
+ขนาด/NOUN
+นี้/DET
+//
+%TTitle: 1317032548862554117
+%ETitle: 1317032548862554117
+%TAuthor:
+%EAuthor: awwwfluffy
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+ทุก/DET
+คนนนนรร/NOUN
+รีทวิ/VERB
+แจ้ง/VERB
+ข่าว/NOUN
+ด้วย/ADV
+ค่า/PART
+//
+%TTitle: 1316967658345160704
+%ETitle: 1316967658345160704
+%TAuthor:
+%EAuthor: abazz_33
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+ไม่เหี้ยจริงพูดไม่ได้ ละกฏที่สำคัญหน้าด้านมากกกก//
+ไม่/PART
+เหี้ย/ADJ
+จริง/ADV
+พูด/VERB
+ไม่ได้/PART
+<space>/PUNCT
+ละ/VERB
+กฏ/NOUN
+ที่/SCONJ
+สำคัญ/ADJ
+หน้า/NOUN
+ด้าน/ADJ
+มากกกก/ADV
+//
+%TTitle: 1317041307181674497
+%ETitle: 1317041307181674497
+%TAuthor:
+%EAuthor: kadongnoii_p
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+เตงงงงงงงงงง ไปสวดมนต์กันถะะะ//
+เตงงงงงงงงงง/PRON
+<space>/PUNCT
+ไป/AUX
+สวดมนต์/VERB
+กัน/ADV
+ถะะะ/PART
+//
+%TTitle: 1316659140463222789
+%ETitle: 1316659140463222789
+%TAuthor:
+%EAuthor: prasitchai_k
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+15.34น.(15ต.ค.63) มวลชนทยทยมาอย่างต่อเนื่อง ชู 3 นิ้ว เรียกร้อง//
+15.34/NUM
+น/NOUN
+<full_stop>/PUNCT
+<left_parenthesis>/PUNCT
+15/NUM
+ต.ค./NOUN
+63/NUM
+<right_parenthesis>/PUNCT
+<space>/PUNCT
+มวลชน/NOUN
+ทยทย/AUX
+มา/VERB
+อย่าง/PART
+ต่อเนื่อง/ADJ
+<space>/PUNCT
+ชู/VERB
+<space>/PUNCT
+3/NUM
+<space>/PUNCT
+นิ้ว/NOUN
+<space>/PUNCT
+เรียกร้อง/VERB
+//
+%TTitle: 1316698813575229442
+%ETitle: 1316698813575229442
+%TAuthor:
+%EAuthor: newname91
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+#ทนายอานนท์ กำลังยิ่นขอประกันตัว//
+<number>/PUNCT
+ทนาย/NOUN
+อานนท์/PROPN
+<space>/PUNCT
+กำลัง/AUX
+ยิ่นขอ/VERB
+ประกันตัว/VERB
+//
+%TTitle: 1317036317503619072
+%ETitle: 1317036317503619072
+%TAuthor:
+%EAuthor: honeybee2475III
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+คุมตำหนวดค่ะ ที่แยกราชประสงค์มีตำรวจกลุ่มหญ่ายยยยชุมนุมกันค่ะ แถมขนอุปกรณ์มาตั้งเพียบเลยค่ะ ไปจับเลยค่ะ  55555//
+คุม/NOUN
+ตำหนวด/NOUN
+ค่ะ/PART
+<space>/PUNCT
+ที่/ADP
+แยกราชประสงค์/PROPN
+มี/VERB
+ตำรวจ/NOUN
+กลุ่ม/NOUN
+หญ่ายยยย/ADJ
+ชุมนุม/VERB
+กัน/ADV
+ค่ะ/PART
+<space>/PUNCT
+แถม/CCONJ
+ขน/VERB
+อุปกรณ์/NOUN
+มา/AUX
+ตั้ง/ADV
+เพียบ/ADJ
+เลย/AUX
+ค่ะ/PART
+<space>/PUNCT
+ไป/AUX
+จับ/VERB
+เลย/AUX
+ค่ะ/PART
+<space>/PUNCT
+55555/INTJ
+//
+%TTitle: 1316638583743115264
+%ETitle: 1316638583743115264
+%TAuthor:
+%EAuthor: NavyO_O
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+ถ้าเป็นประชาธิปไตยจริงจะมีการตัดสัญญาณดาวเทียม VOICE TV กับปิดสัญญาญ BBC ได้ยังไง ตาสว่างกันได้แล้วนะ #15ตุลาไปราชประสงค์//
+ถ้า/SCONJ
+เป็น/VERB
+ประชาธิปไตย/NOUN
+จริง/ADJ
+จะ/AUX
+มี/VERB
+การ/PART
+ตัด/VERB
+สัญญาณ/NOUN
+ดาวเทียม/NOUN
+<space>/PUNCT
+VOICE/PROPN
+<space>/PUNCT
+TV/PROPN
+<space>/PUNCT
+กับ/CCONJ
+ปิด/VERB
+สัญญาญ/NOUN
+<space>/PUNCT 
+BBC/PROPN
+<space>/PUNCT
+ได้/AUX
+ยังไง/PRON
+<space>/PUNCT
+ตาสว่าง/VERB
+กัน/ADV
+ได้/AUX
+แล้ว/AUX
+นะ/PART
+//
+%TTitle: 1317808733263515649
+%ETitle: 1317808733263515649
+%TAuthor:
+%EAuthor: BiG_LinMinghao
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+อย่าลืมพักชุมนุมให้พี่ๆน้องๆได้ซักผ้ากันด้วยครัช ฝนตกทุกวัน ตากเท่าไหร่ก็ไม่แห้งซักที//
+อย่า/AUX
+ลืม/VERB
+พัก/VERB
+ชุมนุม/VERB
+ให้/SCONJ
+พี่ๆ/NOUN
+น้องๆ/NOUN
+ได้/AUX
+ซัก/VERB
+ผ้า/NOUN
+กัน/ADV
+ด้วย/ADP
+ครัช/PART
+<space>/PUNCT
+ฝนตก/VERB
+ทุกวัน/ADV
+<space>/PUNCT
+ตาก/VERB
+เท่าไหร่/PRON
+ก็/SCONJ
+ไม่/PART
+แห้ง/ADJ
+ซักที/ADV
+//
+%TTitle: 1317808733263515649
+%ETitle: 1317808733263515649
+%TAuthor:
+%EAuthor: Vilasinee29
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+ที่นี่ มข. มันปังมา ขนลุกกกกกกกก มนสุดยอดจริงๆ น้ำตาไหล//
+ที่/ADP
+นี่/DET
+<space>/PUNCT
+มข./NOUN
+<space>/PUNCT
+มัน/PRON
+ปัง/ADJ
+มา/ADV
+<space>/PUNCT
+ขนลุกกกกกกกก/ADJ
+<space>/PUNCT
+มน/PRON
+สุดยอด/ADJ
+จริงๆ/ADV
+<space>/PUNCT
+น้ำตา/NOUN
+ไหล/VERB
+//
+%TTitle: 1316976656985227266
+%ETitle: 1316976656985227266
+%TAuthor:
+%EAuthor: Jayy_charl
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+มึงเป็นเหี้ยอะไรค๊าาาาาา !!!!!!//
+มึง/PRON
+เป็น/VERB
+เหี้ย/ADV
+อะไร/PRON
+ค๊าาาาาา/PART
+<space>/PUNCT
+<exclamation>/PUNCT
+//
+%TTitle: 1316672027747516416
+%ETitle: 1316672027747516416
+%TAuthor:
+%EAuthor: Disagreeover
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+ปล่อยเพื่อนเราาาาาาา//
+ปล่อย/VERB
+เพื่อน/NOUN
+เราาาาาาา/PRON
+//
+%TTitle: 1317647726201327616
+%ETitle: 1317647726201327616
+%TAuthor:
+%EAuthor: corner161993
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+ไลไม่ไป ราดไม่ลง 5555//
+ไล/VERB
+ไม่/PART
+ไป/AUX
+<space>/PUNCT
+ราด/VERB
+ไม่/PART
+ลง/AUX
+<space>/PUNCT 
+5555/INTJ
+//
+%TTitle: 1316946694517510149
+%ETitle: 1316946694517510149
+%TAuthor:
+%EAuthor: dfwcftk
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+ห้ามชวนคนไปราษฎร์ประสงค์เย็นนี้  ย้ำ อย่าชวนคนไปราษฎร์ประสงค์เย็นนี้  ราษฎร์ประสงค์นะ 5 โมงเย็น  รู้แล้วบอกต่อด้วย ไม่ได้ชวนนะ//
+ห้าม/AUX
+ชวน/VERB
+คน/NOUN
+ไป/VERB
+ราษฎร์ประสงค์/PROPN
+เย็น/NOUN
+นี้/DET
+<space>/PUNCT 
+ย้ำ/VERB
+<space>/PUNCT
+อย่า/AUX
+ชวน/VERB
+คน/NOUN
+ไป/VERB
+ราษฎร์ประสงค์/PROPN
+เย็น/NOUN
+นี้/DET
+<space>/PUNCT 
+ราษฎร์ประสงค์/NOUN
+นะ/PART
+<space>/PUNCT
+5/NUM
+<space>/PUNCT
+โมง/NOUN
+เย็น/ADJ
+<space>/PUNCT
+รู้/VERB
+แล้ว/ADV
+บอก/VERB
+ต่อ/AUX
+ด้วย/AUX
+<space>/PUNCT
+ไม่ได้/PART
+ชวน/VERB
+นะ/PART
+//
+%TTitle: 1316947969048969218
+%ETitle: 1316947969048969218
+%TAuthor:
+%EAuthor: najazahee
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+ขออนุญาติแชร์เรื่องนี้นะคะ//
+ขอ/VERB
+อนุญาติ/VERB
+แชร์/VERB
+เรื่อง/NOUN
+นี้/DET
+นะ/PART
+คะ/PART
+//
+%TTitle: 1318156155898580992
+%ETitle: 1318156155898580992
+%TAuthor:
+%EAuthor: FFR_cake
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+วันนี้รรกุจัดม็อบจ้าาาครูสลิ่มก็คือแวะมาดูนะถ่ายรูปแล้วจากไป อกแตกตายมั้ยค่าาาา คนมาม็อบเกือบทั้งรรคุคิ//
+วันนี้/NOUN
+รร/NOUN/
+กุ/PRON
+จัด/VERB
+ม็อบ/NOUN
+จ้าาา/PART
+ครู/NOUN
+สลิ่ม/ADJ
+ก็/SCONJ
+คือ/VERB
+แวะ/VERB
+มา/AUX
+ดู/VERB
+นะ/PART
+ถ่าย/VERB
+รูป/NOUN
+แล้ว/AUX
+จากไป/VERB
+<space>/PUNCT 
+อก/NOUN
+แตก/VERB
+ตาย/VERB
+มั้ย/PART
+ค่าาาา/PART
+<space>/PUNCT
+คน/NOUN
+มา/VERB
+ม็อบ/NOUN
+เกือบ/DET
+ทั้ง/DET
+รร/NOUN/
+คุคิ/INTJ
+//
+%TTitle: 1317396378222407680
+%ETitle: 1317396378222407680
+%TAuthor:
+%EAuthor: Thewolf6160666
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+นั้งรถเมลล์ แท็กซี่ แกร็ป วิน กันดีกว่าครับ//
+นั้ง/VERB
+รถเมลล์/NOUN
+<space>/PUNCT
+แท็กซี่/NOUN
+<space>/PUNCT
+แกร็ป/PROPN
+<space>/PUNCT
+วิน/NOUN
+<space>/PUNCT
+กัน/ADV
+ดีกว่า/ADV
+ครับ/PART
+//
+%TTitle: 1318153868690116608
+%ETitle: 1318153868690116608
+%TAuthor:
+%EAuthor: PatchyJae
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+จิงหรอคะ//
+จิง/ADJ
+หรอ/PART
+คะ/PART
+//
+%TTitle: 1317090902427365376
+%ETitle: 1317090902427365376
+%TAuthor:
+%EAuthor: pppeperoni
+%TInbook: twitter
+%EInbook:  twitter
+%TPublisher: twitter
+%EPublisher: twitter
+%Page:
+%Year: 2020
+%File:
+#P1
+#1
+ตอนนี้กุโกรธ โกรธจนร้องไห้ โกรธที่ทำเหี้ยอะไรพวกมันไม่ได้เลย ขอให้ไม่ตายดีสักตัววเกลียด!!!//
+ตอนนี้/ADV
+กุ/PRON
+โกรธ/VERB
+<space>/PUNCT
+โกรธ/VERB
+จน/SCONJ
+ร้องไห้/VERB
+<space>/PUNCT
+โกรธ/VERB
+ที่/SCONJ
+ทำ/VERB
+เหี้ย/ADV
+อะไร/PRON
+พวกมัน/PRON
+ไม่ได้/PART
+เลย/AUX
+<space>/PUNCT
+ขอให้/VERB
+ไม่/PART
+ตาย/VERB
+ดี/ADV
+สัก/DET
+ตัวว/NOUN
+เกลียด/VERB
+<exclamation>/PUNCT
+//
+%ETitle: 1316611333899476992 
+%EAuthor: pcei511
+%File:
+#P1 
+#1 
+(2/2) 3)มีการใช้สัญลักษณ์ต่างๆ เช่น ใช้ตัวการ์ตูนแฮมทาโร่ ใช้ริบบิ้นสีขาว 4)มีกลุ่มที่เคยสนับสนุนฝ่ายทหาร(สลิ่มกลับใจ)มาร่วมม๊อบด้วย 5)มีการวิพากษ์วิจารณ์สถาบันกษัตริย์อย่างตรงไปตรงมา และเรียกร้องให้มีการ//
+<left_parenthesis>/PUNCT
+2/NUM
+<slash>/PUNCT
+2/NUM
+<right_parenthesis>/PUNCT
+<space>/PUNCT
+3/NUM
+<right_parenthesis>/PUNCT
+มี/VERB
+การ/PART
+ใช้/VERB
+สัญลักษณ์/NOUN
+ต่างๆ/DET
+<space>/PUNCT
+เช่น/ADP
+<space>/PUNCT
+ใช้/VERB
+ตัวการ์ตูน/NOUN
+แฮมทาโร่/PROPN
+<space>/PUNCT
+ใช้/VERB
+ริบบิ้น/NOUN
+สี/NOUN
+ขาว/ADJ
+<space>/PUNCT
+4/NUM
+<right_parenthesis>/PUNCT
+มี/VERB
+กลุ่ม/NOUN
+ที่/SCONJ
+เคย/AUX
+สนับสนุน/VERB
+ฝ่ายทหาร/NOUN
+<left_parenthesis>/PUNCT
+สลิ่ม/NOUN
+กลับใจ/VERB
+<right_parenthesis>/PUNCT
+มาร่วม/VERB
+ม๊อบ/NOUN
+ด้วย/ADV
+<space>/PUNCT
+5/NUM
+<right_parenthesis>/PUNCT
+มี/VERB
+การ/PART
+วิพากษ์/VERB
+วิจารณ์/VERB
+สถาบัน/NOUN
+กษัตริย์/NOUN
+อย่าง/PART
+ตรงไปตรงมา/ADJ
+<space>/PUNCT
+และ/CCONJ
+เรียกร้อง/VERB
+ให้/SCONJ
+มี/VERB
+การ/PART
+//
+%ETitle: 1316610775562153984
+%EAuthor: NoNameMD1
+%File:
+#P1 
+#1 
+เพิ่มเติมว่ส กำลังพลที่ว่ามียุทโธปกรณ์ในมือด้วยนะ//
+เพิ่มเติม/ADV
+ว่ส/SCONJ
+<space>/PUNCT
+กำลัง/NOUN
+พล/NOUN
+ที่ว่า/SCONJ
+มี/VERB
+ยุทโธปกรณ์/NOUN
+ใน/ADP
+มือ/NOUN
+ด้วย/ADV
+นะ/PART
+//
+%ETitle: 1316604385569329152
+%EAuthor: mirin909
+%File:
+#P1 
+#1 
+ท่านต้องยุบสภาค่ะนี้คือสิ่งที่เราต้องการ อย่ามาใช้พริกฉุกเฉินพร่ำเพื่อ ประเทศนี้ไม่ใช่ของคนกลุ่มเดียว ไม่รับฟังไม่รับคุยลาออกไปสักที//
+ท่าน/PRON
+ต้อง/AUX
+ยุบ/VERB
+สภา/NOUN
+ค่ะ/PART
+นี้/PRON
+คือ/VERB
+สิ่ง/NOUN
+ที่/SCONJ
+เรา/PRON
+ต้องการ/VERB
+<space>/PUNCT 
+อย่า/AUX
+มา/AUX
+ใช้/VERB
+พริกฉุกเฉิน/NOUN
+พร่ำเพื่อ/ADV
+<space>/PUNCT
+ประเทศ/NOUN
+นี้/DET
+ไม่ใช่/PART
+ของ/ADP
+คน/NOUN
+กลุ่ม/NOUN
+เดียว/NUM
+<space>/PUNCT
+ไม่/PART
+รับฟัง/VERB
+ไม่/PART
+รับคุย/VERB
+ลาออก/VERB
+ไป/AUX
+สักที/AUX
+//
+%ETitle: 1316603762870415360
+%EAuthor: prasitchai_k
+%File:
+#P1 
+#1 
+11.50น.(15ต.ค.63) #อานนท์นำภา โพสต์..""ล่าสุด มีหน่วยหนุมานกองปราบ พร้อมอาวุธ มาควบคุมตัวผม รอขึ้นฮอ ที่กองบินตำรวจ""//
+11.50/NUM
+น/NOUN
+<full_stop>/PUNCT
+<left_parenthesis>/PUNCT
+15/NUM
+ต.ค./NOUN
+63/NUM
+<right_parenthesis>/PUNCT
+<space>/PUNCT
+<number>/PUNCT
+อานนท์/PROPN
+นำภา/PROPN
+<space>/PUNCT
+โพสต์/VERB
+<full_stop>/PUNCT
+<full_stop>/PUNCT
+<quotation>/PUNCT
+ล่าสุด/ADV
+<space>/PUNCT
+มี/VERB
+หน่วยหนุมานกองปราบ/PROPN
+<space>/PUNCT
+พร้อม/ADP
+อาวุธ/NOUN
+<space>/PUNCT
+มา/VERB
+ควบคุมตัว/VERB
+ผม/PRON
+<space>/PUNCT
+รอ/VERB
+ขึ้น/VERB
+ฮอ/NOUN
+<space>/PUNCT
+ที่/ADP
+กองบินตำรวจ/NOUN
+<quotation>/PUNCT
+//
+%ETitle: 1316602363533090818
+%EAuthor: TNKT18
+%File:
+#P1 
+#1 
+ไม่เอาไม่ตาย เตงต้องปลอดภัยนะ//
+ไม่/PART
+เอา/VERB
+ไม่/PART
+ตาย/VERB
+<space>/PUNCT
+เตง/PRON
+ต้อง/AUX
+ปลอดภัย/VERB
+นะ/PART
+//
+%ETitle: 1316600883732389888
+%EAuthor: nong_kon_dee
+%File:
+#P1 
+#1
+ช่วยกันรีนะคะ//
+ช่วย/VERB
+กัน/PRON
+รี/VERB
+นะคะ/PART
+//
+%ETitle: 1316596305586606080
+%EAuthor: Prasitism
+%File:
+#P1 
+#1
+ผมกับพี่อานนท์น่าจะบินด้วยฮอตำรวจ ออกจากที่กรุงเทพ ตอน 12.00 น. เพื่อไปเชียงใหม่ คงลงที่กองบิน 41 น่าจะใช้เวลาเดินทางประมาณ 2 ชั่วโมง ฝากรอดูด้วยครับ//
+ผม/PRON
+กับ/CCONJ
+พี่/NOUN
+อานนท์/NOUN
+น่าจะ/AUX
+บิน/VERB
+ด้วย/ADP
+ฮอ/NOUN
+ตำรวจ/NOUN
+<space>/PUNCT
+ออก/VERB
+จาก/ADP
+ที่/ADP
+กรุงเทพ/PROPN
+<space>/PUNCT
+ตอน/SCONJ
+<space>/PUNCT
+12.00/NUM
+<space>/PUNCT
+น/NOUN
+<full_stop>/PUNCT
+<space>/PUNCT
+เพื่อ/SCONJ
+ไป/VERB
+เชียงใหม่/PROPN
+<space>/PUNCT
+คง/AUX
+ลง/VERB
+ที่/ADP
+กองบิน 41/PROPN
+<space>/PUNCT
+น่าจะ/AUX
+ใช้/VERB
+เวลา/NOUN
+เดินทาง/VERB
+ประมาณ/ADV
+<space>/PUNCT
+2/NUM
+<space>/PUNCT
+ชั่วโมง/NOUN
+<space>/PUNCT
+ฝาก/VERB
+รอ/VERB
+ดู/VERB
+ด้วย/ADV
+ครับ/PART
+//
+%ETitle: 1316584603226759168
+%EAuthor: Momomonde1
+%File:
+#P1 
+#1
+ทุกคนคะตำรวจเตือนมาแล้วนะคะว่าจะใช้อำนาจ พรก.ฉุกเฉินดำเนินคดีทุกคนที่โพสต์ระดมมวลชนให้ไปชุมนุมที่ราชประสงค์เย็นนี้ ฝากบอกต่อๆกันไปค่ะก็อปข้อความนี้ไปก็ได้ อย่าโพสต์ระดมมวลชนให้ไปชุมนุมที่ราชประสงค์เย็นนี้!//
+ทุก/DET
+คน/NOUN
+คะ/PART
+ตำรวจ/NOUN
+เตือน/VERB
+มาแล้ว/AUX
+นะคะ/PART
+ว่า/SCONJ
+จะ/AUX
+ใช้/VERB
+อำนาจ/NOUN
+<space>/PUNCT
+พรก.ฉุกเฉิน/PROPN
+ดำเนินคดี/VERB
+ทุก/DET
+คน/NOUN
+ที่/SCONJ
+โพสต์/VERB
+ระดม/VERB
+มวลชน/NOUN
+ให้/SCONJ
+ไป/AUX
+ชุมนุม/VERB
+ที่/ADP
+ราชประสงค์/NOUN
+เย็น/NOUN
+นี้/DET
+<space>/PUNCT
+ฝาก/VERB
+บอก/VERB
+ต่อๆ/ADV
+กัน/PRON
+ไป/AUX
+ค่ะ/PART
+ก็อป/VERB
+ข้อความ/NOUN
+นี้/ADJ
+ไปก็ได้/AUX
+<space>PUNCT
+อย่า/AUX
+โพสต์/VERB
+ระดม/VERB
+มวลชน/NOUN
+ให้/SCONJ
+ไป/AUX
+ชุมนุม/VERB
+ที่/ADP
+ราชประสงค์/PROPN
+เย็น/NOUN
+นี้/DET
+<exclamation>/PUNCT
+//
+%ETitle: 1316583057114054656
+%EAuthor: viruspower2531
+%File:
+#P1 
+#1
+อย่าไป! ขี้ข้าเผด็จการขู่ขนาดนี้ เขาเอาจริงนะเนี้ย กลัวกันไหมครับพ่อแม่พี่น้อง เห็นได้ชัดว่าฝั่งรัฐบาลกลัวขี้หดหมดแล้ว//
+อย่า/AUX
+ไป/VERB
+<exclamation>/PUNCT
+<space>/PUNCT
+ขี้ข้า/NOUN
+เผด็จการ/NOUN
+ขู่/VERB
+ขนาด/NOUN
+นี้/DET
+<space>/PUNCT
+เขา/PRON
+เอา/VERB
+จริง/ADV
+นะ/PART
+เนี้ย/PART
+<space>/PUNCT
+กลัว/VERB
+กัน/ADV
+ไหม/PRON
+ครับ/PART
+พ่อ/NOUN
+แม่/NOUN
+พี่/NOUN
+น้อง/NOUN
+<space>/PUNCT
+เห็น/VERB
+ได้/AUX
+ชัด/ADJ
+ว่า/SCONJ
+ฝั่ง/NOUN
+รัฐบาล/NOUN
+กลัว/VERB
+ขี้หด/ADV
+หมดแล้ว/ADV
+//
+%ETitle: 1316582845389762565
+%EAuthor: sanju_bkk
+%File:
+#P1 
+#1
+ด่วน! หามโพสต์ว่าจะไปชุมชนเย็นนี้ที่ราชประสงค์ หามให้คนอื่นรู้นะครับว่าเราไปแน่//
+ด่วน/ADJ
+<exclamation>/PUNCT
+<space>/PUNCT
+หาม/PART
+โพสต์/VERB
+ว่า/SCONJ
+จะ/AUX
+ไป/AUX
+ชุมชน/VERB
+เย็น/NOUN
+นี้/DET
+ที่/ADP
+ราชประสงค์/PROPN
+<space>/PUNCT
+หาม/PART
+ให้/SCONJ
+คน/NOUN
+อื่น/DET
+รู้/VERB
+นะ/PART
+ครับ/PART
+ว่า/SCONJ
+เรา/PRON
+ไป/VERB
+แน่/ADJ
+//
+%ETitle: 1316581066082197504
+%EAuthor: puzzle_jj
+%File:
+#P1 
+#1
+เข้าใจตรงกันนะ ตร ขู่ใช้อำนาจ พรก.ฉุกเฉินดำเนินคดีทุกคนที่โพสต์ระดมมวลชนให้ไปชุมชนที่ รปส ห้ามโพสต์ระดมมวลชนเด็ดห้าม ห้าม ห้าม ห้าม//
+เข้าใจ/VERB
+ตรงกัน/ADV
+นะ/PART
+<space>/PUNCT
+ตร/NOUN
+<space>/PUNCT
+ขู่/VERB
+ใช้/VERB
+อำนาจ/NOUN
+<space>/PUNCT
+พรก.ฉุกเฉิน/PROPN
+ดำเนินคดี/VERB
+ทุก/DET
+คน/NOUN
+ที่/SCONJ
+โพสต์/VERB
+ระดม/VERB
+มวลชน/NOUN
+ให้/SCONJ
+ไป/AUX
+ชุมชน/VERB
+ที่/SCOUNJ
+<space>/PUNCT
+รปส/PROPN
+<space>/PUNCT
+ห้าม/AUX
+โพสต์/VERB
+ระดม/VERB
+มวลชน/NOUN
+เด็ด/ADV
+ห้าม/AUX
+<space>/PUNCT
+ห้าม/AUX
+<space>/PUNCT
+ห้าม/AUX
+<space>/PUNCT
+ห้าม/AUX
+//
+%ETitle: 1316580138281177089
+%EAuthor: _KhonThai_
+%File:
+#P1 
+#1
+ม็อบขัดขวางทางเสด็จ ด่าทอพระราชินี เป็นม้อบที่สร้างความรุนแรง กระทบความมั่นคง//
+ม็อบ/NOUN
+ขัดขวาง/VERB
+ทาง/NOUN
+เสด็จ/VERB
+<space>/PUNCT
+ด่าทอ/VERB
+พระราชินี/NOUN
+<space>/PUNCT
+เป็น/VERB
+ม้อบ/NOUN
+ที่/SCONJ
+สร้าง/VERB
+ความ/PART
+รุนแรง/ADJ
+<space>/PUNCT
+กระทบ/VERB
+ความ/PART
+มั่นคง/ADJ
+//
+%ETitle: 1316579347671646208
+%EAuthor: IncredibleK97
+%File:
+#P1 
+#1
+ไม่มีแกนนำ แต่ม็อบจะยังอยู่ เราจะสู้ไปด้วยกัน  ""เผด็จการจงพินาศ ประชาราชจงเจริญ""//
+ไม่/PART
+มี/VERB
+แกนนำ/NOUN
+<space>/PUNCT
+แต่/CCONJ
+ม็อบ/NOUN
+จะ/AUX
+ยัง/AUX
+อยู่/VERB
+<space>/PUNCT
+เรา/PRON
+จะ/AUX
+สู้/VERB
+ไป/AUX
+ด้วยกัน/ADV
+<space>/PUNCT
+<space>/PUNCT
+<quotation>/PUNCT
+เผด็จการ/NOUN
+จง/AUX
+พินาศ/VERB
+<space>/PUNCT
+ประชาราช/NOUN
+จง/AUX
+เจริญ/VERB
+<quotation>/PUNCT
+//
+%ETitle: 1316579134349307904
+%EAuthor: Pach65295291
+%File:
+#P1 
+#1
+เป็น สส เพื่อใครแล้ว//
+เป็น/VERB
+<space>/PUNCT
+สส/PROPN
+<space>/PUNCT
+เพื่อ/SCONJ
+ใคร/PRON
+แล้ว/AUX
+//
+%ETitle: 1316577802787844096
+%EAuthor: Silarang1
+%File:
+#P1 
+#1
+สงสารตำรวจที่กลายเป็นแพะรับบาปนะครับ จริงๆแล้วใครเป็นคนวางเส้นทางขบวนเสด็จให้มาพบเจอกับม๊อบ เหมือนกับว่า เจตนาให้เกิดสถานการณ์ เพื่อเอาไปใส่ร้ายป้ายสี #คณะราษฎร ซะงั้น//
+สงสาร/VERB
+ตำรวจ/NOUN
+ที่/SCONJ
+กลายเป็น/VERB
+แพะรับบาป/NOUN
+นะ/PART
+ครับ/PART
+<space>/PUNCT
+จริงๆ/ADV
+แล้ว/AUX
+ใคร/PRON
+เป็น/VERB
+คน/NOUN
+วาง/VERB
+เส้นทาง/NOUN
+ขบวนเสด็จ/NOUN
+ให้/AUX
+มา/VERB
+พบเจอ/VERB
+กับ/ADP
+ม๊อบ/NOUN
+<space>/PUNCT
+เหมือนกับว่า/SCONJ
+<space>/PUNCT
+เจตนา/VERB
+ให้/AUX
+เกิด/VERB
+สถานการณ์/NOUN
+<space>/PUNCT
+เพื่อ/SCONJ
+เอา/VERB
+ไป/AUX
+ใส่ร้ายป้ายสี/VERB
+<space>/PUNCT
+<number>/PUNCT
+คณะราษฎร/PROPN
+<space>/PUNCT
+ซะงั้น/AUX
+//
+%ETitle: 1316365048768389121
+%EAuthor: fork38706082
+%File:
+#P1 
+#1
+คำทำนายของผมที่ผมบอกเอาไว้นั้น ถูกต้องแล้วหนึ่งอันแล้วนะฮับนั่นก็คือ ""จะเกิดปฏิวัติใหญ่เกิดขึ้น"" แล้วก็เกิดขึ้นแล้ววันนี้//
+คำทำนาย/NOUN
+ของ/ADP
+ผม/PRON
+ที่/SCONJ
+ผม/PRON
+บอก/VERB
+เอาไว้/AUX
+นั้น/DET
+<space>/PUNCT
+ถูกต้อง/ADJ
+แล้ว/AUX
+หนึ่ง/NUM
+อัน/NOUN
+แล้ว/AUX
+นะฮับ/PART
+นั่น/PRON
+ก็/SCONJ
+คือ/VERB
+<space>/PUNCT
+<quotation>/PUNCT
+จะ/AUX
+เกิด/VERB
+ปฏิวัติ/NOUN
+ใหญ่/ADJ
+เกิดขึ้น/VERB
+<quotation>/PUNCT
+<space>/PUNCT
+แล้วก็/CCONJ
+เกิดขึ้น/VERB
+แล้ว/AUX
+วันนี้/NOUN
+//
+%ETitle: 1316364454230073344
+%EAuthor: BaekSky3
+%File:
+#P1 
+#1
+มันดักค่ะทุกโคนนนนเข้าไปในม๊อบไม่ได้เข้าทางไหนได้บ้างค้่าาาาาาา//
+มัน/PRON
+ดัก/VERB
+ค่ะ/PART
+ทุก/DET
+โคนนนน/NOUN
+เข้าไป/VERB
+ใน/ADP
+ม๊อบ/NOUN
+ไม่ได้/PART
+เข้า/VERB
+ทาง/NOUN
+ไหน/DET
+ได้/AUX
+บ้าง/DET
+ค้่าาาาาาา/PART
+//
+%ETitle: 1316363233377185792
+%EAuthor: mooham_mh
+%File:
+#P1 
+#1
+เค้าคงอยากจะพลิกเกมให้ภาพ #คณะราษฎร กลายเป็นผู้ร้ายที่คุกคามขบวน ถามจริง โดยปกติเคยปล่อยให้ปชชเข้าใกล้ได้ขนาดนั้นหรอ เวรี่จงใจ! แต่จำไว้อย่างนึงว่านี่มันยุคที่ทุกคนเข้าถึงข้อมูล และหลายคนเคารพสิทธิของตัวเอง มากกว่าการจะไปจะไปนั่งระลึกบุญคุณใครก็ไม่รู้ ที่ไม่มีอยู่จริง//
+เค้า/PRON
+คง/AUX
+อยากจะ/AUX
+พลิก/VERB
+เกม/NOUN
+ให้/VERB
+ภาพ/NOUN
+<space>/PUNCT
+<number>/PUNCT
+คณะราษฎร/PROPN
+<space>/PUNCT
+กลายเป็น/VERB
+ผู้ร้าย/NOUN
+ที่/SCONJ
+คุกคาม/VERB
+ขบวน/NOUN
+<space>/PUNCT
+ถาม/VERB
+จริง/ADV
+<space>/PUNCT
+โดยปกติ/ADV
+เคย/AUX
+ปล่อย/VERB
+ให้/SCONJ
+ปชช/NOUN
+เข้า/VERB
+ใกล้/ADV
+ได้/AUX
+ขนาด/NOUN
+นั้น/DET
+หรอ/PART
+<space>/PUNCT
+เวรี่/ADV
+จงใจ/VERB
+<exclamation>/PUNCT
+<space>/PUNCT
+แต่/CCONJ
+จำ/VERB
+ไว้/AUX
+อย่าง/PART
+นึง/NUM
+ว่า/SCONJ
+นี่/PRON
+มัน/PRON
+ยุค/NOUN
+ที่/SCONJ
+ทุก/DET
+คน/NOUN
+เข้า/VERB
+ถึง/ADP
+ข้อมูล/NOUN
+<space>/PUNCT
+และ/CCONJ
+หลาย/DET
+คน/NOUN
+เคารพ/VERB
+สิทธิ/NOUN
+ของ/ADP
+ตัวเอง/PRON
+<space>/PUNCT
+มาก/ADV
+กว่า/SCONJ
+การ/PART
+จะ/AUX
+ไป/AUX
+จะ/AUX
+ไป/AUX
+นั่ง/VERB
+ระลึก/VERB
+บุญคุณ/NOUN
+ใคร/PRON
+ก็/SCONJ
+ไม่/PART
+รู้/VERB
+<space>/PUNCT
+ที่/SCONJ
+ไม่/PART
+มี/VERB
+อยู่/AUX
+จริง/ADV//
+%ETitle: 1316362245060788225
+%EAuthor: suga_n93
+%File:
+#P1 
+#1
+อันนี้แมร่งเกินไปอิเวร สถุนว่ะ//
+อัน/NOUN
+นี้/DET
+แมร่ง/PART
+เกินไป/ADV
+อิเวร/NOUN
+<space>/PUNCT
+สถุน/ADJ
+ว่ะ/PART
+//
+%ETitle: 1316361249668521984
+%EAuthor: phuyingsaipay
+%File:
+#P1 
+#1
+เอาจริงนะ ม๊อบมาขนาดนี้คนขนาดนี้ อีเหี้ยตู่อยู่ไหน? เป็นนายกควรออกมาเทคแอคชั่นแล้วไม่ใช่แกล้งโง่อยู่//
+เอาจริง/ADV
+นะ/PART
+<space>/PUNCT
+ม๊อบ/NOUN
+มา/VERB
+ขนาด/NOUN
+นี้/DET
+คน/NOUN
+ขนาด/NOUN
+นี้/DET
+<space>/PUNCT
+อีเหี้ย/ADJ
+ตู่/PROPN
+อยู่/VERB
+ไหน/PRON
+<question_mark>/PUNCT
+<space>/PUNCT
+เป็น/VERB
+นายก/NOUN
+ควร/AUX
+ออก/VERB
+มา/AUX
+เทคแอคชั่น/VERB
+แล้ว/AUX
+ไม่ใช่/PART
+แกล้ง/VERB
+โง่/ADV
+อยู่/VERB
+//
