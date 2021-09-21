@@ -1,6 +1,5 @@
 # thai-political-tweets
-Twitter-41
-A small Thai political twitter dataset with UD POS tags
+Twitter-41, a small Thai political twitter dataset with UD POS tags
 
 * ORCHID annotation style with UD tags
 * 41 tweets
